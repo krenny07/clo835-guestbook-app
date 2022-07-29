@@ -1,1 +1,1 @@
-# clo835-guestbook_app
+# clo835-guestbook-app
